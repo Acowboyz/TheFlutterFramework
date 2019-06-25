@@ -78,7 +78,7 @@ class Category extends StatelessWidget {
                 ), // Text
               ],
             ),
-          ),
+          ), // Padding
         ), // InkWell
       ), // Container
     ); // Material
